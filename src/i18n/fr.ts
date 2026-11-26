@@ -1,0 +1,57 @@
+export default {
+  app: {
+    name: 'P&K Business Manager',
+    tagline: 'Gestion commerciale de la boutique',
+  },
+  common: {
+    loading: 'Chargement…',
+    save: 'Enregistrer',
+    cancel: 'Annuler',
+  },
+  auth: {
+    loginTitle: 'Connexion',
+    loginSubtitle: 'Accédez à votre espace de gestion.',
+    email: 'Adresse e-mail',
+    emailPlaceholder: 'vous@exemple.mg',
+    password: 'Mot de passe',
+    deviceName: "Nom de l'appareil",
+    deviceNamePlaceholder: 'Caisse principale',
+    webBrowser: 'Navigateur web',
+    submit: 'Se connecter',
+    submitting: 'Connexion…',
+    logout: 'Se déconnecter',
+    changePassword: 'Changer le mot de passe',
+    currentPassword: 'Mot de passe actuel',
+    newPassword: 'Nouveau mot de passe',
+    confirmPassword: 'Confirmer le nouveau mot de passe',
+    changePasswordSubmit: 'Mettre à jour le mot de passe',
+    passwordChanged: 'Mot de passe mis à jour. Les autres appareils ont été déconnectés.',
+    passwordsMismatch: 'Les mots de passe ne correspondent pas.',
+    passwordHint: '8 caractères minimum, avec au moins une lettre et un chiffre.',
+    signedInAs: 'Connecté en tant que',
+  },
+  home: {
+    title: 'Tableau de bord',
+    welcome: 'Bienvenue',
+    account: 'Mon compte',
+    email: 'E-mail',
+    role: 'Rôle',
+    sprintNote:
+      'Sprint 1 : socles et authentification. Les modules de gestion commerciale arrivent aux prochains sprints.',
+  },
+  roles: {
+    ADMIN: 'Administrateur',
+    SELLER: 'Vendeur',
+  },
+  language: {
+    label: 'Langue',
+    fr: 'Français',
+    mg: 'Malagasy',
+  },
+  errors: {
+    network: 'Impossible de contacter le serveur. Vérifiez votre connexion.',
+    unknown: 'Une erreur est survenue. Réessayez plus tard.',
+    sessionExpired: 'Votre session a expiré. Veuillez vous reconnecter.',
+    tooManyAttempts: 'Trop de tentatives. Patientez un instant avant de réessayer.',
+  },
+};

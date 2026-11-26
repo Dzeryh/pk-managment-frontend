@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="P&K Business Manager">
+  <rect width="512" height="512" rx="112" fill="#101828" />
+  <path d="M116 372V140h92c52 0 84 30 84 78 0 49-33 80-86 80h-34v74h-56zm56-122h32c21 0 34-11 34-31s-13-31-34-31h-32v62z" fill="#f7f7f8" />
+  <path d="M302 372l62-118-58-114h60l30 66 30-66h58l-58 114 62 118h-62l-32-68-32 68h-60z" fill="#f5b942" />
+</svg>
